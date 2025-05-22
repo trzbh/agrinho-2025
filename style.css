@@ -25,7 +25,8 @@ p {
 
 /* Header */
 header {
-    background-color: #4caf50;
+    background-color: #000000
+    ;
     color: white;
     padding: 5px;
     text-align: center;
