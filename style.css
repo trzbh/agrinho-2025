@@ -27,7 +27,7 @@ p {
 header {
     background-color: #4caf50;
     color: white;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -72,7 +72,7 @@ footer {
     background-color: #5e4caf;
     color: white;
     text-align: center;
-    padding: 5px;
+    padding: 2px;
     position: fixed;
     bottom: 0;
     width: 100%;
